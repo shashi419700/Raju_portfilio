@@ -53,6 +53,12 @@ export default function Hero() {
             Passionate about web development, futuristic UI design, and creating premium digital experiences with advanced animations and modern 3D aesthetics.
           </p>
 
+
+
+          
+          //Hari om
+
+
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <motion.button
               whileHover={{ scale: 1.08 }}
